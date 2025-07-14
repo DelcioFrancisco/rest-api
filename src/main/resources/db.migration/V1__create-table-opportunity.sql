@@ -1,4 +1,4 @@
-create table oportunity (
+create table opportunity (
     id biginit auto_increment not null,
     name_company varchar(80) not null,
     description varchar(200) not null,
