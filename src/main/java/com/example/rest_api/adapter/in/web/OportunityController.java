@@ -13,7 +13,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("/oportunities")
+@RequestMapping("/opportunities")
 public class OportunityController {
     private OportunityRepository oportunities;
     private OportunityService oportunityService;
