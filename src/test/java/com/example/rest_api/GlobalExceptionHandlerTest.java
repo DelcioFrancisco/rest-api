@@ -1,6 +1,6 @@
 package com.example.rest_api;
 
-import com.example.rest_api.infra.exceptions.GlobalExceptionHandler;
+import com.example.rest_api.config.exceptions.GlobalExceptionHandler;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
