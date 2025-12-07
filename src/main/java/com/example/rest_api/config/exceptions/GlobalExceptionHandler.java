@@ -1,4 +1,4 @@
-package com.example.rest_api.infra.exceptions;
+package com.example.rest_api.config.exceptions;
 
 import org.springframework.boot.context.config.ConfigDataResourceNotFoundException;
 import org.springframework.http.HttpStatus;
