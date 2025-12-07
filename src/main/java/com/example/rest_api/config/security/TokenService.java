@@ -1,4 +1,4 @@
-package com.example.rest_api.infra.security;
+package com.example.rest_api.config.security;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
