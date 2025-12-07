@@ -1,6 +1,6 @@
-package com.example.rest_api.application;
+package com.example.rest_api.domain.service;
 
-import com.example.rest_api.adapter.out.persistence.UserRepository;
+import com.example.rest_api.adapter.out.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
