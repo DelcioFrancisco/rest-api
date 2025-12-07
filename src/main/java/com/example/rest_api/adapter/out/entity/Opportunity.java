@@ -1,7 +1,6 @@
-package com.example.rest_api.domain.model;
+package com.example.rest_api.adapter.out.entity;
 
 import jakarta.persistence.*;
-import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
 import lombok.Getter;
