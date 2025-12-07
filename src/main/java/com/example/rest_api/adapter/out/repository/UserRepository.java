@@ -1,4 +1,4 @@
-package com.example.rest_api.adapter.out.persistence;
+package com.example.rest_api.adapter.out.repository;
 
 import com.example.rest_api.domain.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
